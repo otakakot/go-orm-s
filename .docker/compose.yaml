@@ -1,7 +1,7 @@
 services:
   postgres:
     container_name: go-orm-s-postgres
-    image: postgres:15.4-alpine
+    image: postgres:15.5-alpine
     ports:
       - 5432:5432
     environment:
