@@ -4,7 +4,7 @@ go 1.21.1
 
 require (
 	entgo.io/ent v0.12.3
-	github.com/google/uuid v1.3.0
+	github.com/google/uuid v1.5.0
 	github.com/lib/pq v1.10.9
 )
 
