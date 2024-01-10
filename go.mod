@@ -1,6 +1,6 @@
 module github.com/otakakot/go-orm-s
 
-go 1.21.1
+go 1.21.6
 
 require (
 	entgo.io/ent v0.12.3
